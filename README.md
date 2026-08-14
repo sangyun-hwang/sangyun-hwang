@@ -38,9 +38,9 @@
 ##### Main
 
 <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=for-the-badge" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /> </br> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> 
-
+<!--
 ##### Sub
-
+-->
 <!--<img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat-square" />-->
 
 <!--<img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=github actions&logoColor=white" />-->
